@@ -1,0 +1,17 @@
+zhcn:
+  stage:
+    Boot: 启动
+    Confirm: 验证
+    Develop: 发展
+    Run: 稳定
+  industry:
+    EGame: 电子游戏
+    Web: 互联网
+    App: 移动互联网
+    Tradition Food: 传统餐饮
+  tools:
+    law: 法律
+    finance: 金融
+    place: 场地
+    advertise: 推广
+    game-resource: 游戏素材   

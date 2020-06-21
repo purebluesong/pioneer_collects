@@ -2,9 +2,17 @@
   link: https://zhipin.com 
   img: http://src.onlinedown.net/new_img/apk_logo/2015/1023/257251_1445588617_4941.png
   desc: 一款优秀的招聘软件
+  type: app
+  indus: all
+  stage: all
 
 - name: 智联招聘
   link: https://www.zhaopin.com/
   img: https://fecdn3.zhaopin.cn/www/assets/zhaopin.4659478df1ec9a2e6ed76997a64884f6.pngs
   desc: 一款优秀的招聘软件
+  type: app
+  indus: all
+  stage: all
 
+- name: 创新创业点子收集，咨询整理
+  type: TODO
