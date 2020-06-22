@@ -30,4 +30,14 @@ desc: Egametest
 type: app
 indus: EGame
 stage: Boot
+toolType: hire
+
+---
+name: Egametest2
+link: https://www.zhaopin.com/
+img: nothing2
+desc: Egametest2
+type: app
+indus: EGames
+stage: Develop
 toolType: news
