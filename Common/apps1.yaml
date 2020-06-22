@@ -21,3 +21,13 @@ toolType: hire
 --- 
 name: 创新创业点子收集，咨询整理
 type: TODO
+
+---
+name: Egametest
+link: https://www.zhaopin.com/
+img: nothing
+desc: Egametest
+type: app
+indus: EGame
+stage: Boot
+toolType: news
