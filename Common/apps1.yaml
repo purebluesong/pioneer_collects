@@ -11,9 +11,129 @@ toolType: hire
 ---
 name: 智联招聘
 link: https://www.zhaopin.com/
-img: https://fecdn3.zhaopin.cn/www/assets/zhaopin.4659478df1ec9a2e6ed76997a64884f6.pngs
+img: https://img.haote.com/upload/info/20180323/1521777693872125.png
 desc: 一款优秀的招聘软件
 type: app
+indus: all
+stage: all
+toolType: hire
+
+---
+name: 51Job
+link: https://www.51job.com/
+img: http://img01.51jobcdn.com/im/mobile/app/logo_51job.png
+desc: 
+type: app
+indus: all
+stage: all
+toolType: hire
+
+---
+name: 中华英才网
+link: https://www.chinahr.com/
+img: http://src.onlinedown.net/new_img/apk_logo/2016/0614/12202_1465883744_2797.png
+desc: 招聘网站
+type: web
+indus: all
+stage: all
+toolType: pioneer
+
+---
+name: 58 招商
+link: https://jiameng.58.com/investment/nologic/page?from=pc_fangxin_zhaoshangjiameng_cssywzl
+img: http://src.onlinedown.net/new_img/apk_logo/2016/0614/12202_1465883744_2797.png
+desc: 各种行业店铺加盟
+type: web
+indus: all
+stage: all
+toolType: pioneer
+
+---
+name: 58 兼职
+link: https://www.58.com/jianzhi/
+img: http://src.onlinedown.net/new_img/apk_logo/2016/0614/12202_1465883744_2797.png
+desc:
+type: web
+indus: all
+stage: all
+toolType: part-time
+
+---
+name: 猪八戒
+link: https://beijing.zbj.com/
+img: https://img1.iyiou.com/Company/2016-05-11/cf-zhubajiewang.jpg
+desc: it 兼职
+type: app
+indus: Web
+stage: all
+toolType: part-time
+
+---
+name: 大街网
+link: https://www.dajie.com/
+img: https://pic.baike.soso.com/p/20120510/20120510081502-1590175182.jpg
+desc: 招聘
+type: app
+indus: all
+stage: all
+toolType: hire
+
+---
+name: 斗米
+link: https://www.doumi.com/
+img: http://www.lgstatic.com/thumbnail_300x300/i/image2/M00/42/C3/CgotOVrDVUeANc21AABwNm509IU196.png
+desc: 招聘
+type: app
+indus: all
+stage: all
+toolType: hire
+
+---
+name: 雇得易
+link: https://hirede.com/Product/index
+img: https://hirede.com/images2/newStyle15/logo.png
+desc: 企业私有化招聘服务
+type: service
+indus: all
+stage: run
+toolType: hire
+
+---
+name: 脉脉
+link: https://maimai.cn/
+img: http://i3.qhimg.com/dr/270_500_/t012fbf854ea25a118d.png?size=512x512
+desc: 社交化招聘
+type: app
+indus: all
+stage: all
+toolType: hire
+
+---
+name: 拉勾
+link: https://www.lagou.com/
+img: http://src.onlinedown.net/new_img/apk_logo/2015/0907/408649_1441589301_1946.png
+desc: 招聘
+type: app
+indus: Web
+stage: all
+toolType: hire
+
+---
+name: 实习僧
+link: https://www.shixiseng.com/
+img: http://www.we123.com/d/file/xcx/2017-09-13/7d39c2f6037d66e2a1b3ae2abec08699.png
+desc: 实习生招聘
+type: app
+indus: all
+stage: all
+toolType: hire
+
+---
+name: NextOffer
+link: https://www.nextoffer.com/web/hiring
+img: https://www.nextoffer.com/static/desktop/img/logo-v2.png
+desc: 招聘
+type: service
 indus: all
 stage: all
 toolType: hire
