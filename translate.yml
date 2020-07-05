@@ -1,12 +1,19 @@
 zhcn:
   stage:
     Boot: 启动
+    boot: 启动
     Confirm: 验证
+    confirm: 验证
     Develop: 发展
+    develop: 发展
     Run: 稳定
+    run: 稳定
   industry:
     EGame: 电子游戏
+    game: 电子游戏
     Web: 互联网
+    web: 互联网
+    app: 移动互联网
     App: 移动互联网
     Tradition Food: 传统餐饮
   tools:
