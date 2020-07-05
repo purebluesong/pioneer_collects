@@ -28,3 +28,10 @@ zhcn:
     programmer: 写程序
     news: 新闻
     resource: 资源
+  tag:
+    app: 应用
+    App: 应用
+    Web: 网站
+    web: 网站
+    service: 服务
+    Service: 服务
