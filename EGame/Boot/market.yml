@@ -1,0 +1,47 @@
+name: taptap
+link: https://www.taptap.com/
+img: https://img.utdstc.com/icons/taptap-android.png:l
+desc: 手机游戏评测
+type: app
+---
+name: Steam
+link: https://store.steampowered.com/
+img: https://cdn.wccftech.com/wp-content/uploads/2013/12/ql8q0x6s.png
+desc: 桌面端游戏商店
+type: app
+---
+name: WeGame
+link: https://www.wegame.com.cn/client
+img: https://www.realgear.net/wp-content/uploads/2018/01/wegame-300x207.jpg
+desc: 腾讯游戏市场
+type: app
+---
+name: 小米应用市场
+link: 
+img:
+desc: 腾讯应用市场
+type: 
+---
+name: 应用宝
+link: 
+img:
+desc: 腾讯应用商店
+type: 
+---
+name: GooglePlay
+link: 
+img:
+desc: GooglePlay 应用商店
+type: 
+---
+name: 百度手机助手
+link: 
+img:
+desc: 百度应用商店
+type: 
+---
+name: App Store
+link: 
+img:
+desc: 苹果应用市场
+type: 
