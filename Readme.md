@@ -4,7 +4,7 @@
 
 ## 可视化
 
-[pioneering.top](pioneering.top) 是这里简单收集的工具的一个可视化页面展示。
+[pioneering.top](pioneering.top) 是这里收集的工具的一个简单可视化页面展示。
 
 ## 组织结构
 
