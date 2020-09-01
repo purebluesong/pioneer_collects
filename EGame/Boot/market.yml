@@ -17,31 +17,31 @@ desc: 腾讯游戏市场
 type: app
 ---
 name: 小米应用市场
-link: 
-img:
-desc: 腾讯应用市场
-type: 
+link: https://game.xiaomi.com/
+img: https://static.g.mi.com/game/websites/public/img/logo.2d9fb05b.png
+desc: 小米应用市场
+type: app
 ---
 name: 应用宝
-link: 
-img:
+link: https://android.myapp.com/
+img: https://pic3.zhimg.com/80/v2-2b7cb1a774e19a3e0cc7fa5e3c1b647a_qhd.jpg
 desc: 腾讯应用商店
-type: 
+type: app
 ---
 name: GooglePlay
-link: 
-img:
+link: https://play.google.com/
+img: https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png
 desc: GooglePlay 应用商店
-type: 
+type: app
 ---
 name: 百度手机助手
-link: 
-img:
+link: https://shouji.baidu.com/
+img: https://pic.baike.soso.com/ugc/baikepic2/12085/20171115151437-182233702.jpg/300
 desc: 百度应用商店
-type: 
+type: app
 ---
 name: App Store
-link: 
-img:
+link: https://www.apple.com.cn/ios/app-store/s
+img: http://icons.iconarchive.com/icons/iynque/ios7-style/1024/App-Store-icon.png
 desc: 苹果应用市场
-type: 
+type: app
